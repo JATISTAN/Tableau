@@ -2,6 +2,11 @@
 
 The **Airbnb Price & Revenue Dashboard** leverages detailed data from Airbnb listings in Seattle to provide comprehensive insights into pricing trends, seasonal revenue fluctuations, and how the number of bedrooms in a property affects its pricing. This dashboard is designed to help both Airbnb hosts and guests make informed decisions, optimize pricing strategies, and understand the broader market dynamics of the Seattle Airbnb ecosystem.
 
+You can view the interactive version of the dashboard here:  
+[Tableau Public Dashboard - Airbnb Price & Revenue Analysis](https://public.tableau.com/views/AirbnbPriceRevenueDashboard_17321417877660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ### **Key Steps and Visualizations**
 
 #### **1. Average Price by Zipcode (Bar Graph)**
@@ -42,6 +47,8 @@ This bar chart visualizes the distribution of listings based on the number of be
 - **Insights for Guests**: Assists in selecting a listing that meets their bedroom requirements, providing a more personalized browsing experience.
 
 ![Count of Bedrooms](image0/db.png)
+
+---
 
 ### **Dashboard Image**
 ![Airbnb Price & Revenue Dashboard](image0/airdb.png)
